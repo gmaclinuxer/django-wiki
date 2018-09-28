@@ -1,0 +1,17 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "bk wiki less package",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-less": "^4.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pitou",
+  "license": "MIT"
+}
